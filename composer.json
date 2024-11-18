@@ -28,7 +28,6 @@
         "ext-filter": "*",
         "ext-json": "*",
         "ext-mbstring": "*",
-        "ext-openssl": "*",
         "beste/clock": "^3.0",
         "beste/in-memory-cache": "^1.0",
         "beste/json": "^1.2.1",
@@ -58,7 +57,7 @@
         "phpstan/phpstan-phpunit": "^1.4.0",
         "phpunit/phpunit": "^10.5.38",
         "rector/rector": "^1.2.10",
-        "shipmonk/composer-dependency-analyser": "^1.7.0",
+        "shipmonk/composer-dependency-analyser": "^1.8.1",
         "symfony/var-dumper": "^6.4.14 || ^7.0.7",
         "vlucas/phpdotenv": "^5.6.1"
     },
